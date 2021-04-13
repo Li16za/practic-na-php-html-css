@@ -1,0 +1,105 @@
+			.b1 {
+	    		font-size: 3vw; /* Размер шрифта в пунктах */
+				background: -moz-linear-gradient(LightSkyBlue, DeepSkyBlue, DodgerBlue);
+				color: white;
+				padding: 3px 7px;
+				-moz-border-radius: 5px;
+				-webkit-border-radius: 5px;
+				border-radius: 5px;
+				border: 3px solid RoyalBlue;
+				width: 500px;
+				height: 100px;
+				font-family: "times new roman";
+				font-style: italic;
+      			}
+      		.b2 {
+	    		font-size: 3vw; /* Размер шрифта в пунктах */
+				background: -moz-linear-gradient(Blue, RoyalBlue, DeepSkyBlue);
+				color: white;
+				padding: 3px 7px;
+				-moz-border-radius: 5px;
+				-webkit-border-radius: 5px;
+				border-radius: 5px;
+				border: 3px solid RoyalBlue;
+				width: 500px;
+				height: 100px;
+				font-family: "times new roman";
+				font-style: italic;
+      			}
+      		.b3 {
+	    		font-size: 3vw; /* Размер шрифта в пунктах */
+				background: -moz-linear-gradient(MediumBlue, Navy, MidnightBlue);
+				color: white;
+				padding: 3px 7px;
+				-moz-border-radius: 5px;
+				-webkit-border-radius: 5px;
+				border-radius: 5px;
+				border: 3px solid RoyalBlue;
+				width: 500px;
+				height: 100px;
+				font-family: "times new roman";
+				font-style: italic;
+      			}
+      		.b4 {
+	    		font-size: 3vw; /* Размер шрифта в пунктах */
+				background: -moz-linear-gradient(DeepSkyBlue, RoyalBlue, Blue);
+				color: white;
+				padding: 3px 7px;
+				-moz-border-radius: 5px;
+				-webkit-border-radius: 5px;
+				border-radius: 5px;
+				border: 3px solid RoyalBlue;
+				width: 500px;
+				height: 100px;
+				font-family: "times new roman";
+				font-style: italic;
+      			}
+    		.table {
+   				width: 100%;
+   	    		font-size: 20pt;/* Размер шрифта в пунктах */
+    			background: -moz-linear-gradient(LightSkyBlue, DeepSkyBlue, DodgerBlue);
+				color: white;
+				padding: 3px 7px;
+				-moz-border-radius: 5px;
+				-webkit-border-radius: 5px;
+				border-radius: 5px;
+				border: 3px solid RoyalBlue;
+				font-family: "times new roman";
+				font-style: italic;
+			}
+			.table2 {
+   				width: 100%;
+   				font-size:3vw;/* Размер шрифта в пунктах */
+				background:CornflowerBlue;
+				color: snow;
+				padding: 3px 7px;
+				-moz-border-radius: 5px;
+				-webkit-border-radius: 5px;
+				border-radius: 5px;
+				border: 3px solid RoyalBlue;
+				height: 500px;
+				font-family: "times new roman";
+				font-style: italic;
+			}
+			.input {
+    			width: 500px;
+   	    		font-size: 30pt;/* Размер шрифта в пунктах */
+    			background:snow;
+				color: MidnightBlue;
+				padding: 3px 7px;
+				-moz-border-radius: 5px;
+				-webkit-border-radius: 5px;
+				border-radius: 5px;
+				border: 3px solid RoyalBlue;
+				height:100px;
+				font-family: "times new roman";
+				font-style: italic;
+				text-align:center;
+			}
+			tr {
+				align-items: flex-start;
+   	    		text-align:center;
+				height:100px;
+				font-family: "times new roman";
+				font-style: italic;}
+			/*<link rel="stylesheet" type="text/css" href="style.css">*/
